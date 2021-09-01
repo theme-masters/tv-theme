@@ -31,3 +31,8 @@ lucifer theme is a simple website about tv show
 ![8](ss/8.PNG)
 ![9](ss/9.PNG)
 
+Support
+
+<a href="https://www.buymeacoffee.com/congar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+<a href="https://patreon.com/congar"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dendel%26type%3Dpledges&style=for-the-badge" /> </a>
